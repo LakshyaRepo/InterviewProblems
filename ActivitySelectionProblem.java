@@ -26,7 +26,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Lakshya
+ * @author Lakshya Sharma
  */
  
 class Activity{
